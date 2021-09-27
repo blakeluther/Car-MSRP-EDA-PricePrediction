@@ -1,0 +1,1 @@
+This contains the final paper for my CSC-321: Data Ming and Machine Learning class. Performs exploratory data analysis on a dataset containing the MSRP of 32,000 cars which includes the features of each car, as well. Developed a price prediction model to see if it was possible to determing the MSRP of future vehicles.
